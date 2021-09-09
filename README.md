@@ -14,6 +14,7 @@ Getting Started:<br>
 2. <a href="https://github.com/profunccdata/Knowledge_Discovery_In_Databases/blob/main/Jupyter_Markdown_Primer.ipynb">Jupyter Markdown Primer by Example</a>
 3. <a href="https://githubtocolab.com/profunccdata/Knowledge_Discovery_In_Databases/blob/main/Bank%20Marketing%20Data%20Preparation.ipynb">Chapter 3 Bank Marketing Example</a>
 4. <a href="https://github.com/profunccdata/Knowledge_Discovery_In_Databases/blob/main/EDAIris.ipynb">Chapter 4 Example 1 Exploring Data for Knowledge and Understanding</a>
+5. <a href="https://github.com/profunccdata/Knowledge_Discovery_In_Databases/blob/main/Understand_Shark_Presence.ipynb">Chapter 4 Exercise - Understanding Shark Presence: Understanding Domain, Exploring Data for Knowledge and Understanding</a>
 
 [ back to Table of Contents](#toc)
 <br>
